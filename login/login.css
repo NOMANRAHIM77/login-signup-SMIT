@@ -1,0 +1,47 @@
+
+
+
+#smit-logo{
+    display: flex;
+    justify-content: center;
+    
+    margin-top: 5vh;
+    }
+
+    #h1{
+        display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 10vh;
+    }
+
+    #button{
+        padding-top: 15px;
+        padding-left: 5vw;
+       display: flex;
+       justify-content: center;
+       gap: 5px;  
+       position: absolute;  
+    }
+   
+    form{
+        margin-top: 3vw;
+        width: 30rem;
+        margin-left: 40vw;
+    }
+
+    #email{
+       
+        display: flex;
+        justify-content: space-between;
+        width:19vw ;
+        margin-bottom: 3vh;
+        
+    }
+    #password{
+        display: flex;
+        justify-content: space-between;
+        width:19vw ;
+        margin-bottom: 3vh;
+        
+    }
